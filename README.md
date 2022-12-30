@@ -1,6 +1,18 @@
 ### Hello, Fernando here! 👋
 
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/5Fercho5)
+<a href="https://twitter.com/5Fercho5" target="_blank">
+  <img alt="Twitter: 5Fercho5" src="https://img.shields.io/twitter/follow/5Fercho5.svg?style=for-the-badge&logo=twitter" />
+</a>
+
+```javascript
+const fercho = {
+  title: 'Computer Systems Engineer',
+  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'SQL'],
+  frameworks: ['Vue', 'Nuxt', 'React'],
+  aimingToLearn: ['Rust', 'Svelte'],
+  hobbies: ['Videogames 🎮', 'Reading 📚', 'Learning 🧠']
+}
+```
 
 
 <!--
