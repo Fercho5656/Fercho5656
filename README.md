@@ -1,31 +1,19 @@
-### Hello, Fernando here! 👋
+# Hello, Fernando here! ✌
+### A passionate computer systems engineer student
 
-<a href="https://twitter.com/5Fercho5" target="_blank">
-  <img alt="Twitter: 5Fercho5" src="https://img.shields.io/twitter/follow/5Fercho5.svg?style=for-the-badge&logo=twitter" />
-</a>
+<p align="left"> <a href="https://twitter.com/5fercho5" target="blank"><img src="https://img.shields.io/twitter/follow/5fercho5?logo=twitter&style=for-the-badge" alt="5fercho5" /></a> </p>
 
-```javascript
+```js
 const fercho = {
-  title: 'Computer Systems Engineer',
-  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'SQL'],
-  frameworks: ['Vue', 'Nuxt', 'React'],
-  aimingToLearn: ['Rust', 'Svelte'],
-  hobbies: ['Videogames 🎮', 'Reading 📚', 'Learning 🧠']
+  languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
+  frameworks: ['Vue', 'React', 'Nuxt', 'Tailwind', 'Express'],
+  databases: ['MySQL', 'PostgreSQL'],
+  hobbies: ['Videogames 🎮', 'Reading 📚', 'Learning 🧠'],
+  aimingToLearn: ['Rust', 'PHP', 'Svelte'],
 }
 ```
 
-
-<!--
-**Fercho5656/Fercho5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+- <a href="https://twitter.com/5fercho5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5fercho5" height="30" width="40" />Twitter</a>
+- <a href="https://linkedin.com/in/fernandomorenomoran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandomorenomoran" height="30" width="40" />LinkedIn</a>
+- <a href="https://instagram.com/fercho160500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fercho160500" height="30" width="40" />Instagram</a>
