@@ -1,4 +1,4 @@
-# Hello, <a href="https://fercho-portfolio.netlify.app/" target="_blank">Fernando</a> here! ✌ 
+# Hello, [Fernando](https://fercho-portfolio.netlify.app/) here! ✌ 
 ### A passionate computer systems engineer student 💻
 
 ```js
